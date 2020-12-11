@@ -7,7 +7,7 @@
 - [ ] 📖 [**Database Internals**](https://www.databass.dev) (A Petrov 2019)
 - [x] 📖 [**Designing Data-Intensive Applications**](https://dataintensive.net/) (M Kleppmann 2017)
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
-- [  ] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
+- [ ] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
 - [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
 - [ ] 📖 [Database System Concepts](https://www.db-book.com/db7/index.html) (A Silberschatz, HF Korth, S Sudarshan 2019)
 - [ ] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
